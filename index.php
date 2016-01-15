@@ -9,3 +9,9 @@ include "header.php";
 <?php
 include "footer.php";
 ?>
+
+
+
+//TODO Add php code for header.php
+//TODO Add php code for footer.php
+
